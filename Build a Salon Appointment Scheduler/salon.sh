@@ -1,4 +1,3 @@
-# SHEBANG - Tells system to run script
 #! /bin/bash
 
 # Creates PSQL variable to store command
